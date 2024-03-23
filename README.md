@@ -24,31 +24,35 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ## WHOIS:
 
-![site](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/59ec213b-793a-4c86-a43a-c735b80f306e)
+![whois](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/655d237b-b2d5-4c8b-9a8b-7e208ef417d5)
+
 
 ## IP2LOCATION:
 
-![location](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/3fe0a749-95ab-43e0-8be9-f0dee18b87d0)
+![ip2](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/b9951c91-8785-4bda-aeec-2dab0205dcb9)
+
 
 ## PING:
 
-![ping](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/2e2740fa-4d8e-4db3-b040-e961501020f8)
+
+![ping1](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/1f9a79bb-bce8-4e54-ad79-a4c4943cafca)
+
 
 ## WEB ARCHIVE:
 
-![web](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/c9fdec90-8ea6-406e-9287-cb7123f73ac8)
+![webarchive](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/f66fb680-a99d-4d12-920b-4e578c973cda)
+
 
 ## NMAP:
-
-![nmap](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/7df7edf6-e7e5-49b7-83ca-a82a82f8c70e)
+![NMAP1](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/2a0ad4e1-d7a8-40a1-beb5-a4149bb5e4a1)
 
 ## WHATWEB:
+![whatweb](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/cc4b0ee5-f6cf-41fd-bc91-6988f6800d06)
 
-![web1](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/be7d8a13-c51f-46c1-b0f6-7fc97b42545d)
 
 ## TRACEROUTE:
 
-![traceroute](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/744d7995-0d29-4527-8112-ce950a4ba20e)
+![traceroute1](https://github.com/vasundrasriravi/InformationGathering/assets/119393983/63510724-45a0-4234-9933-09be3e4a9225)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
